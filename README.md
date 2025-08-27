@@ -24,3 +24,8 @@ With LangGraph, you can:
     
     [5].Implement human-in-the-loop interactions:
                                        Enabling users to intervene, provide feedback, or adjust decisions within automated workflows.
+
+
+
+
+By leveraging these capabilities, LangGraph provides a scalable and structured way to design AI-powered automation, making it especially useful for tasks like Exploratory Data Analysis (EDA), where multiple steps and decision points are involved.
